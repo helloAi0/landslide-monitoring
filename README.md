@@ -1,4 +1,4 @@
-# 🌍 GeoShield Enterprise - Landslide Intelligence API & Command Center
+# 🌍 GeoShield - Landslide Intelligence API & Command Center
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue)
