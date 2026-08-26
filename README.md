@@ -7,7 +7,7 @@
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.103.0-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![XGBoost](https://img.shields.io/badge/ML-XGBoost-159957?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io/)
-[![Status: Production Ready](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)](https:/landslide-monitoring-fxg3mupv7-tahas-projects-28481ad1.vercel.app)
+[![Status: Production Ready](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)](https://landslide-monitoring-eta.vercel.app)
 
 <p align="center">
   An industry-grade, production-ready geospatial command center ingesting live satellite telemetry, soil composition dynamics, and digital elevation models (DEM) to evaluate landslide hazards via a <b>Hybrid Machine Learning and Geotechnical Physics Engine</b>.
