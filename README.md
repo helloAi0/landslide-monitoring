@@ -3,10 +3,10 @@
 # ⛰️ GeoShield Enterprise
 ### *AI-Powered Landslide Intelligence & Geotechnical Command Center*
 
-[![License: MIT](https://github.com/helloAi0/landslide-monitoring/blob/main/LICENSE)](https://opensource.org/licenses/MIT)
-[![Python 3.11+](https://www.python.org/)]
-[![FastAPI](https://fastapi.tiangolo.com/)]
-[![XGBoost](https://xgboost.readthedocs.io/)]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.103.0-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![XGBoost](https://img.shields.io/badge/ML-XGBoost-159957?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io/)
 [![Status: Production Ready](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)](https://github.com/helloAi0/landslide-monitoring)
 
 <p align="center">
