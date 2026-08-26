@@ -13,19 +13,19 @@ An industry-grade, highly precise geospatial command center utilizing a **Hybrid
 
 ## 🎥 System Demonstration
 
-*Watch the GeoShield Command Center in action:*
+> *Interactive Command Center Dashboard & Live Telemetry Evaluation*
+
+### 📊 Command Center Dashboard
 <div align="center">
-  <video src="frontend/assets/video.mp4" controls="controls" width="100%">
-    Your browser does not support the video tag.
-  </video>
+  <img src="https://raw.githubusercontent.com/helloAi0/landslide-monitoring/main/frontend/src/assets/dashboard.png" alt="GeoShield Dashboard" width="100%" />
 </div>
 
-## 🖥️ Live Command Dashboard
+### 📹 Platform Walkthrough Video
+> *Watch the system walkthrough and live risk evaluation:*
 
-<div align="center">
-  <img src="frontend/assets/dashboard.png" alt="GeoShield Dashboard" width="100%">
-  <p><em>Real-time visualization of hybrid risk assessments, telemetry, and safety thresholds.</em></p>
-</div>
+[![Watch the Video Walkthrough](https://raw.githubusercontent.com/helloAi0/landslide-monitoring/main/frontend/src/assets/dashboard.png)](https://github.com/helloAi0/landslide-monitoring/blob/main/frontend/src/assets/video.mp4)
+
+*(Click the image above or [Click Here to Watch the Video Walkthrough](https://github.com/helloAi0/landslide-monitoring/blob/main/frontend/src/assets/video.mp4) directly in your repository).*
 
 ---
 
