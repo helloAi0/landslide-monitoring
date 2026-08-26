@@ -1,0 +1,43 @@
+@import 'leaflet/dist/leaflet.css';
+
+:root {
+  --text: #6b6375;
+  --text-h: #08060d;
+  --bg: #0b0f19;
+  --border: #1e293b;
+  --code-bg: #1f2028;
+  --accent: #0ea5e9;
+  --accent-bg: rgba(14, 165, 233, 0.1);
+  --accent-border: rgba(14, 165, 233, 0.5);
+  --panel-bg: #111827;
+  
+  --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
+  --heading: system-ui, 'Segoe UI', Roboto, sans-serif;
+  --mono: ui-monospace, Consolas, monospace;
+
+  font: 14px/145% var(--sans);
+  color-scheme: dark;
+  color: #9ca3af;
+  background: var(--bg);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  background-color: var(--bg);
+}
+
+#root {
+  /* WIDENED FROM 1126px TO 1500px FOR A MASSIVE MAP */
+  width: 1500px; 
+  max-width: 98vw;
+  margin: 0 auto;
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  padding: 20px;
+}

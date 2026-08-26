@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Datasets (We will not commit large CSVs or TIFFs)
+backend/data/raw/*
+backend/data/processed/*
+!backend/data/raw/.gitkeep
+!backend/data/processed/.gitkeep
+
+# Saved ML Models
+backend/ml/saved_models/*.joblib
+!backend/ml/saved_models/.gitkeep
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+build/
+.DS_Store
