@@ -45,11 +45,11 @@ export default function App() {
     }
   }, []);
 
-  const analyzeLocation = async (lat, lng) => {
+const analyzeLocation = async (lat, lng) => {
     setLoading(true);
     routeLayerRef.current.clearLayers();
     try {
-      const response = await fetch('http://localhost:8000/api/predict-location', {
+      const response = await fetch('https://landslide-monitoring.onrender.com/api/predict-location', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ latitude: lat, longitude: lng, auto_fetch_live_data: true })
